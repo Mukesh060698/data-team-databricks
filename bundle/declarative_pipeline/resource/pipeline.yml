@@ -1,0 +1,7 @@
+resources:
+
+  pipelines:
+
+    declarative_pipeline:
+      configuration:
+        materialized_view_customer_summary: true
