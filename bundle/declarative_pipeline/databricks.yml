@@ -1,0 +1,7 @@
+bundle:
+  name: "declarative_pipeline"
+
+include:
+  - resource/*.yml
+
+  - target.yml
