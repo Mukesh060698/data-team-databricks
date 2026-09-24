@@ -1,9 +1,0 @@
-resources:
-
-  pipelines:
-
-    declarative_pipeline:
-      name: ${bundle.target}_declarative_pipeline
-
-      catalog: ${var.catalog}
-      schema: ${var.schema}

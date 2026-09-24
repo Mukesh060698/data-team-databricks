@@ -1,7 +1,0 @@
-resources:
-
-  pipelines:
-
-    declarative_pipeline:
-      configuration:
-        streaming_orders: true
